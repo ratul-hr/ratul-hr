@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ratul Hasan Riad
 
-<!--
-**ratul-hr/ratul-hr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering student at **Daffodil International University (DIU)**. I am passionate about building efficient, robust software and have a deep interest in understanding how systems work under the hood.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+I am currently focusing on deepening my knowledge in C programming, memory management, and quality assurance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** C
+* **Tools & IDEs:** Git, DaVinci Resolve, CapCut
+* **Areas of Interest:** Software Quality Assurance, Memory Management, Algorithm Efficiency, PC Hardware
+
+### 🚀 What I'm Working On
+- 💻 **C Programming:** Currently practicing low-level memory management and pointer efficiency.
+- 🧪 **Quality Assurance:** Exploring the fundamentals of software testing.
+- ⚙️ **Hardware:** I enjoy optimizing PC builds and desktop environments.
+
+### 📫 Let's Connect
+- **LinkedIn:** [www.linkedin.com/in/ratul-hr]
+- **Email:** ratulhasang@gmail.com
+- **Location:** Savar, Dhaka, Bangladesh
+
+---
+
+### 📊 GitHub Stats
