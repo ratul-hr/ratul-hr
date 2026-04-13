@@ -22,3 +22,5 @@ I am currently focusing on deepening my knowledge in C programming, memory manag
 ---
 
 ### 📊 GitHub Stats
+![Ratul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratul-hr&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratul-hr&layout=compact&theme=radical)
