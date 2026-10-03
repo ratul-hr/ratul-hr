@@ -6,8 +6,8 @@ I am a Software Engineering student at **Daffodil International University (DIU)
 I am currently focusing on deepening my knowledge in C programming, memory management, and quality assurance.
 
 * **Languages:** C
-* **Tools & IDEs:** Git, DaVinci Resolve, CapCut
-* **Areas of Interest:** Software Quality Assurance, Memory Management, Algorithm Efficiency, PC Hardware
+* **Tools & IDEs:** Git, Trello, Slack, Adobe Photoshop, DaVinci Resolve, CapCut
+* **Areas of Interest:** Software Architecture, AI/ML, Software Quality Assurance, Memory Management, Algorithm Efficiency, PC Hardware
 
 ### 🚀 What I'm Working On
 - 💻 **C Programming:** Currently practicing low-level memory management and pointer efficiency.
