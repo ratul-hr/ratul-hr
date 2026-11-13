@@ -14,14 +14,6 @@
 
   <br>
 
-  <!-- Technology Icons -->
-  <img
-    src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux&theme=dark"
-    alt="Technology stack"
-  />
-
-  <br><br>
-
   <!-- Social Badges -->
   <a href="https://github.com/ratul-hr">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
@@ -95,23 +87,6 @@ A terminal-based event management application built in **C (C99)**. It uses file
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ratul-hr&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Ratul's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul-hr&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages">
-
-  <br>
-
-  <img src="https://streak-stats.demolab.com?user=ratul-hr&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
-
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ratul-hr&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub contribution activity graph">
-
-</div>
-
 ### 🧊 3D Contribution Calendar
 
 <div align="center">
@@ -158,20 +133,6 @@ A terminal-based event management application built in **C (C99)**. It uses file
   </p>
 
   <br>
-
-  <a href="https://github.com/ratul-hr">
-    <img src="https://img.shields.io/badge/Let's%20Connect-Visit%20My%20GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub">
-  </a>
-
-  <br><br>
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:020617&height=120&section=footer"
-    width="100%"
-    alt="Gradient footer"
-  />
-
-</div>
 
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer"
