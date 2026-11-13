@@ -1,29 +1,41 @@
 <div align="center">
 
+  <!-- Animated Gradient Header -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:06B6D4&height=190&section=header&text=Ratul%20Hasan%20Riad&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Developer%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:1E3A8A,65:0369A1,100:06B6D4&height=220&section=header&text=Ratul%20Hasan%20Riad&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Turning%20Ideas%20Into%20Code&descSize=18&descAlignY=58&animation=fadeIn"
     width="100%"
-    alt="Profile banner"
   />
 
+  <!-- Animated Typing Introduction -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;C+Programmer+%7C+Problem+Solver;Exploring+Systems+%26+Memory+Management;Building+reliable+software+one+line+at+a+time"
-    alt="Animated introduction"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=60&lines=Software+Engineering+Student;C+Programmer+%7C+Problem+Solver;Exploring+Systems+%26+Memory+Management;Building+Reliable+Software;Always+Learning.+Always+Building."
+    alt="Typing animation"
   />
 
-  <p>
-    <a href="https://github.com/ratul-hr">
-      <img src="https://img.shields.io/badge/GitHub-ratul--hr-181717?style=for-the-badge&logo=github" alt="GitHub">
-    </a>
-    <a href="https://www.linkedin.com/in/ratul-hr">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="mailto:ratulhasang@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </p>
+  <br>
 
-  <img src="https://komarev.com/ghpvc/?username=ratul-hr&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views">
+  <!-- Technology Icons -->
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux&theme=dark"
+    alt="Technology stack"
+  />
+
+  <br><br>
+
+  <!-- Social Badges -->
+  <a href="https://github.com/ratul-hr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/ratul-hr">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ratulhasang@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=ratul-hr&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -132,7 +144,34 @@ A terminal-based event management application built in **C (C99)**. It uses file
 
 <div align="center">
 
-  **“Understand the system. Solve the problem. Build something meaningful and scalable.”**
+  <h2>✨ Thanks for Visiting!</h2>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&height=65&lines=Driven+by+curiosity%2C+focused+on+meaningful+innovation.;Turning+complex+problems+into+elegant+solutions.;Building+reliable+technology+with+purpose+and+precision."
+    alt="Professional animated outro"
+  />
+
+  <br>
+
+  <p>
+    <i>The journey of learning never ends.</i>
+  </p>
+
+  <br>
+
+  <a href="https://github.com/ratul-hr">
+    <img src="https://img.shields.io/badge/Let's%20Connect-Visit%20My%20GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub">
+  </a>
+
+  <br><br>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:020617&height=120&section=footer"
+    width="100%"
+    alt="Gradient footer"
+  />
+
+</div>
 
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer"
